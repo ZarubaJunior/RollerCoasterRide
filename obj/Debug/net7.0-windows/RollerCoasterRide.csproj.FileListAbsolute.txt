@@ -1,0 +1,17 @@
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.csproj.AssemblyReference.cache
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.Form1.resources
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.csproj.GenerateResource.cache
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.AssemblyInfoInputs.cache
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.AssemblyInfo.cs
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.csproj.CoreCompileInputs.cache
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\bin\Debug\net7.0-windows\RollerCoasterRide.exe
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\bin\Debug\net7.0-windows\RollerCoasterRide.deps.json
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\bin\Debug\net7.0-windows\RollerCoasterRide.runtimeconfig.json
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\bin\Debug\net7.0-windows\RollerCoasterRide.dll
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\bin\Debug\net7.0-windows\RollerCoasterRide.pdb
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.dll
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\refint\RollerCoasterRide.dll
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.pdb
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\RollerCoasterRide.genruntimeconfig.cache
+C:\Митя\Art\Programming\Dz\RollerCoasterRide\obj\Debug\net7.0-windows\ref\RollerCoasterRide.dll
