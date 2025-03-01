@@ -30,7 +30,7 @@ namespace RollerCoasterRide
                 return;
             }
             // Troubles Check
-            if (backTrouble == "N" || heartTrouble == "N")
+            if (backTrouble == "N" && heartTrouble == "N")
             {
                 MessageBox.Show("You are allowed to ride the roller coaster!");
                 return;
